@@ -1,0 +1,33 @@
+(base) C:\Users\Ashish Jain>conda install phonenumbers -c conda-forge
+Collecting package metadata (repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: E:\programfiles\Anaconda3
+
+  added / updated specs:
+    - phonenumbers
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    phonenumbers-8.12.39       |     pyhd8ed1ab_0         1.6 MB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         1.6 MB
+
+The following NEW packages will be INSTALLED:
+
+  phonenumbers       conda-forge/noarch::phonenumbers-8.12.39-pyhd8ed1ab_0
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+phonenumbers-8.12.39 | 1.6 MB    | ################################################################################################################################ | 100%
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
